@@ -125,7 +125,7 @@ function TokenTrafficCopDashboard() {
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
           <div className="flex items-center gap-3">
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-neon-teal/10 text-neon-teal glow-teal-sm">
-              <Route size={20} />
+              <RouteIcon size={20} />
             </div>
             <div>
               <h1 className="text-lg font-bold tracking-tight text-foreground">
