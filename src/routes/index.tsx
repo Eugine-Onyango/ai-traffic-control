@@ -5,7 +5,7 @@ import {
   Zap,
   Crown,
   ArrowRight,
-  Route,
+  Route as RouteIcon,
   ChevronRight,
   Terminal,
   Sparkles,
